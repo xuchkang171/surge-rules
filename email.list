@@ -1,0 +1,13 @@
+# Outlook
+DOMAIN,imap-mail.outlook.com
+DOMAIN,smtp-mail.outlook.com
+
+# Gmail
+DOMAIN,imap.gmail.com
+DOMAIN,mail-ads.google.com
+DOMAIN,mail.google.com
+DOMAIN,smtp.gmail.com
+
+# iCloud
+DOMAIN,p32-imap.mail.me.com
+DOMAIN,p32-smtp.mail.me.com
