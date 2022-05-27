@@ -1,8 +1,5 @@
-# ---------------------------
 # Source: https://github.com/v2fly/domain-list-community/blob/master/data/epochmediagroup
-# Ref for Surge : https://manual.nssurge.com/rule/domain-based.html
-# ---------------------------
-# 
+
 # epochmediagroup
 DOMAIN-SUFFIX,dajiyuan.com
 DOMAIN-SUFFIX,dajiyuan.eu
