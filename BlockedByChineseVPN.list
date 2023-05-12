@@ -1,5 +1,5 @@
 # For domains blocked by chinese VPNs, except epochmediagroup, which has its own surge list 
-# at https://github.com/xuchkang171/surge-rules/raw/main/EpochMediaGroup.list
+# at https://github.com/xuchkang171/surge-rules/raw/main/EpochMediaGroup.txt
 
 # Pincong
 DOMAIN-SUFFIX,pincong.rocks
