@@ -1,4 +1,4 @@
-# Usage in Surge: DOMAIN-SET,https://github.com/xuchkang171/surge-rules/raw/main/Email.list,Proxy
+# Usage in Surge: DOMAIN-SET,https://github.com/xuchkang171/surge-rules/raw/main/Email.txt,Proxy
 
 # Outlook
 imap-mail.outlook.com
