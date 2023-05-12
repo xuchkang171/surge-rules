@@ -1,0 +1,15 @@
+# Usage in Surge: DOMAIN-SET,https://github.com/xuchkang171/surge-rules/raw/main/Email.list,Proxy
+
+# Outlook
+imap-mail.outlook.com
+smtp-mail.outlook.com
+
+# Gmail
+imap.gmail.com
+mail-ads.google.com
+mail.google.com
+smtp.gmail.com
+
+# iCloud
+p32-imap.mail.me.com
+p32-smtp.mail.me.com
