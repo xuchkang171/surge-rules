@@ -1,4 +1,5 @@
 # Source: https://github.com/v2fly/domain-list-community/blob/master/data/epochmediagroup
+# Usage in Surge: DOMAIN-SET,https://github.com/xuchkang171/surge-rules/raw/main/EpochMediaGroup.txt,Proxy
 
 # epochmediagroup
 .dajiyuan.com
